@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8BD0363F-A457-D9CA-5BE9-E341E015CF0F}</ProjectGuid>
+    <ProjectGuid>{AA57EF56-8FCA-A633-35CC-8C29A45B9C0C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Mathematics</AssemblyName>
@@ -126,9 +126,9 @@
     <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\float3x4.gen.cs" />
     <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\float2x4.gen.cs" />
     <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\double4.gen.cs" />
-    <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\math_unity_conversion.cs" />
     <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\float2x2.gen.cs" />
     <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\int3x3.gen.cs" />
+    <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\math_unity_conversion.cs" />
     <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\bool4x2.gen.cs" />
     <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\bool3x3.gen.cs" />
     <Compile Include="Library\PackageCache\com.unity.mathematics@1.1.0\Unity.Mathematics\int4x3.gen.cs" />
@@ -717,11 +717,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{20166525-79B7-5ED5-0A62-BBB72626D5CF}</Project>
+      <Project>{AD81E271-FABA-1957-7F33-E42A6030A86D}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{6B036C4A-70A8-0DBA-302F-BAD668702358}</Project>
+      <Project>{0805877C-F0AE-3730-5F00-CD01165096D6}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

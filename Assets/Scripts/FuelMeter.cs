@@ -10,7 +10,7 @@ public class FuelMeter : MonoBehaviour
     private void Start()
     {
         fuel = 0;
-        heroHealth = GameObject.Find("Player").GetComponent<HeroHealth>();
+        heroHealth = GameObject.FindObjectOfType<HeroHealth>();
     }
     void Update()
     {

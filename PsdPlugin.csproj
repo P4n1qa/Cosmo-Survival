@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1B83200D-AD1F-9A38-F8BB-13E22FA89C84}</ProjectGuid>
+    <ProjectGuid>{008CD644-A196-742E-4DF8-B214F70B20A5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PsdPlugin</AssemblyName>
@@ -690,19 +690,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{20166525-79B7-5ED5-0A62-BBB72626D5CF}</Project>
+      <Project>{AD81E271-FABA-1957-7F33-E42A6030A86D}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{6B036C4A-70A8-0DBA-302F-BAD668702358}</Project>
+      <Project>{0805877C-F0AE-3730-5F00-CD01165096D6}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{8353D3DA-A6A7-CBC7-C059-EFFA66252204}</Project>
+      <Project>{0A93B50E-1ECD-949E-5217-3E5C9278DF49}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{1538E8F3-311E-CD04-E2FA-DCB8303D8BE7}</Project>
+      <Project>{1D10B574-D8E5-76FB-31EB-9823066BCC05}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

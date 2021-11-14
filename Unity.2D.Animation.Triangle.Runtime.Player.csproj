@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0C5A2569-342B-670D-8B5B-07FF6C874877}</ProjectGuid>
+    <ProjectGuid>{E23A8C44-AEF8-3372-B67E-96BD4A6783F8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Animation.Triangle.Runtime</AssemblyName>
@@ -71,8 +71,8 @@
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Meshing\Iterators\RegionIterator.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Meshing\ConstraintOptions.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Geometry\ExtensionMethods.cs" />
-    <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Geometry\Polygon.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Voronoi\DefaultVoronoiFactory.cs" />
+    <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Geometry\Polygon.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Tools\TriangleQuadTree.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Tools\AdjacencyMatrix.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Meshing\Algorithm\Dwyer.cs" />
@@ -681,7 +681,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{6B036C4A-70A8-0DBA-302F-BAD668702358}</Project>
+      <Project>{0805877C-F0AE-3730-5F00-CD01165096D6}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

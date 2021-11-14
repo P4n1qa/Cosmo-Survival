@@ -8643,7 +8643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 936619dc0fe2ad64096960c123a36ca5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 15
+  speed: 5
   joystick: {fileID: 1107787595}
   anim: {fileID: 660172988}
 --- !u!50 &660172985
@@ -16607,7 +16607,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3881087803549984436, guid: ec536a7718376554185e4a856d5ae230, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 2960
+      value: 2678.16
       objectReference: {fileID: 0}
     - target: {fileID: 3881087803549984436, guid: ec536a7718376554185e4a856d5ae230, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25447,7 +25447,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2080837880}
         m_TargetAssemblyTypeName: MuteSound, Assembly-CSharp
-        m_MethodName: onClick
+        m_MethodName: OnClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

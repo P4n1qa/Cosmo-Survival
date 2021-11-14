@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4D100568-DDB2-3771-F523-78FB744CF229}</ProjectGuid>
+    <ProjectGuid>{D2604F2F-4F04-9530-206C-D885F432BA1C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Animation.Triangle.Runtime</AssemblyName>
@@ -71,8 +71,8 @@
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Meshing\Iterators\RegionIterator.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Meshing\ConstraintOptions.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Geometry\ExtensionMethods.cs" />
-    <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Geometry\Polygon.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Voronoi\DefaultVoronoiFactory.cs" />
+    <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Geometry\Polygon.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Tools\TriangleQuadTree.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Tools\AdjacencyMatrix.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@5.0.4\Runtime\Triangle\Meshing\Algorithm\Dwyer.cs" />
@@ -717,11 +717,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{20166525-79B7-5ED5-0A62-BBB72626D5CF}</Project>
+      <Project>{AD81E271-FABA-1957-7F33-E42A6030A86D}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{6B036C4A-70A8-0DBA-302F-BAD668702358}</Project>
+      <Project>{0805877C-F0AE-3730-5F00-CD01165096D6}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
